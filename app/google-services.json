@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "128349142865",
+    "firebase_url": "https://smart-text-extractor.firebaseio.com",
+    "project_id": "smart-text-extractor",
+    "storage_bucket": "smart-text-extractor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128349142865:android:604c00947acc174a",
+        "android_client_info": {
+          "package_name": "io.praveen.smarttextextractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128349142865-auo962m7oq0cum7cvg4kud8ipao1kslm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.praveen.smarttextextractor",
+            "certificate_hash": "57aacc226ec7cd0930abdb93e80f4351e3e0eb66"
+          }
+        },
+        {
+          "client_id": "128349142865-9nu0f7mbefielj5b2mohr2hhlol00nln.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "128349142865-9nu0f7mbefielj5b2mohr2hhlol00nln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBonBIlcMP6V9OIcQpHfVMSiDEXZUM3M0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128349142865-9nu0f7mbefielj5b2mohr2hhlol00nln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
