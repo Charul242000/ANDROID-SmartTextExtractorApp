@@ -29,7 +29,7 @@
                 android:layout_margin="16dp"
                 android:textAlignment="center"
                 android:textColor="#000000"
-                android:text="Click 'Choose Image' button\nand get text from an image!"
+                android:text="Click 'Choose Image' Button\nand Get text from an image!"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
